@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aref
+- 👋 Hi, I’m Aref Jr. Front-End Developer💻 UX/UI Designer🖌
 - 🌱 I’m currently learning Front-End Development 
-- 📫 How to reach me Twitter @aref_akminasi / Linkedin Aref Akminasi
+- 📫 How to reach me Twitter @aref_akminasi / LinkedIn Aref Akminasi
 
 <!---
 aref-akminasi/aref-akminasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
